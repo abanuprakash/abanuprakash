@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @abanuprakash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<!-- 
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning NextJs
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abanuprakash&show_icons=true&theme=radical&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abanuprakash&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanuprakash&layout=compact)](https://github.com/abanuprakash/github-readme-stats) -->
 <!---
