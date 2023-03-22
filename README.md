@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banu Prakash</h1>
 <h3 align="center">A passionate Software developer from Tirunelveli,India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanuprakash" alt="abanuprakash" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanuprakash&title=Followers" alt="abanuprakash" /></a> </p> -->
 
 - 🔭 I’m currently working on [Furniture Magik](https://furnituremagik.com/)
 
