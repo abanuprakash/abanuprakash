@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Furniture Magik](https://furnituremagik.com/)
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nextjs** & building an E-commerce Website
 
 - 💬 Ask me about **WordPress, React and Angular**
 
