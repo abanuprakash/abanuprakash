@@ -1,19 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Banu Prakash
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Banu Prakash</h1>
 
-{ Front-End & Back-End } Developer
-----------------------------------
+<h3 align="center">{ Front-End & Back-End } Developer</h3>
 
-Crafting code that brings ideas to life. Usually developing with Front-End technologies and Occasionally developing the API's using Spring Boot.
+<p align="center"> Crafting code that brings ideas to life. Usually developing with Front-End technologies and Occasionally developing the API's using Spring Boot.</p>
 
-* 🌍  I'm based in Tirunelveli, TamilNadu
-* ✉️  You can contact me at [banuaprakash@gmail.com](mailto:banuaprakash@gmail.com)
-* 🧠  I'm learning Nextjs & Building the E-commerce Website
-
-### Skills
+<p align="center"> I'm currently learning Nextjs & Building the E-commerce Website
+</p>
 
 
-<p align="left">
+<br />
+
+<h2 align="center">Technical Skills</h2>
+
+
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -34,17 +34,23 @@ Crafting code that brings ideas to life. Usually developing with Front-End techn
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
+<br />
+<h2 align="center">Connect with me</h2>
 
-### Socials
+<p align="center"> <a href="https://www.github.com/abanuprakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abanuprakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7386958/a-prakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-<p align="left"> <a href="https://www.github.com/abanuprakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abanuprakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7386958/a-prakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+<br />
 
-<a href="http://www.github.com/abanuprakash"><img src="https://github-readme-stats.vercel.app/api?username=abanuprakash&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abanuprakash's GitHub stats" /></a>
+<h2 align="center">My GitHub Stats</h2>
 
-<a href="http://www.github.com/abanuprakash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abanuprakash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/abanuprakash" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanuprakash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <p align="center">
+<a href="http://www.github.com/abanuprakash" align="center"><img src="https://github-readme-stats.vercel.app/api?username=abanuprakash&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abanuprakash's GitHub stats" /></a></p>
+
+
+ <p align="center">
+<a href="http://www.github.com/abanuprakash" align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abanuprakash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+
+<!-- <a href="https://github.com/abanuprakash" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanuprakash&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
