@@ -35,7 +35,7 @@
 </p>
 
 <br />
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with me </h2>
 
 <p align="center"> <a href="https://www.github.com/abanuprakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abanuprakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/7386958/a-prakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
@@ -43,7 +43,7 @@
 
 <br />
 
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center">My GitHub Stats </h2>
 
 
  <p align="center">
